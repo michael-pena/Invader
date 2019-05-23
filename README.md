@@ -1,6 +1,6 @@
-#Invader
+# Invader
 
-![alt tag] (https://raw.githubusercontent.com/michael-pena/Invader/master/Invader_ScreenShot.png)
+![alt tag](https://raw.githubusercontent.com/michael-pena/Invader/master/Invader_ScreenShot.png)
 
 <h3>What is Invader?</h3>
 Invader is a bash script for kali linux to automate the information gathering and vulnerability scanning phase.
