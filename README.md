@@ -8,7 +8,7 @@ Invader is a bash script for kali linux to automate the information gathering an
 <h3>How to use it?</h3>
 Use git clone to download and run in your Kali linux Distro.
 
-To run:
+To run: <br>
 <code>sudo chmod +x invader.sh</code> <br>
 <code>./invader.sh</code>
 
